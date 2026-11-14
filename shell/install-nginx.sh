@@ -24,4 +24,5 @@ mkdir -p /etc/ssl; curl https://ssl-config.mozilla.org/ffdhe2048.txt > /etc/ssl/
 
 apt -y install nginx nginx-module-geoip nginx-module-njs nginx-module-perl nginx-module-xslt;
 
+echo -e "\ndone";
 exit 0;
