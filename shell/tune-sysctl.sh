@@ -44,7 +44,7 @@ net.ipv4.udp_wmem_min=8192
 net.core.rmem_max=16777216
 net.core.wmem_max=16777216
 
-net.ipv6.conf.default.forwarding=1
+#net.ipv6.conf.default.forwarding=1
 
 #net.ipv6.conf.all.disable_ipv6 = 0
 #net.ipv6.conf.default.disable_ipv6 = 0
